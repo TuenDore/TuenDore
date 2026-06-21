@@ -1,5 +1,10 @@
-## Hi there 👋
+hi im berry
 
+I’m currently learning Javascript and some HTML
+
+📫 How to reach me? add my discord here -> beryy#1200
+
+current manager and developer in learning at .gg/th3rp
 <!--
 **TuenDore/TuenDore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
